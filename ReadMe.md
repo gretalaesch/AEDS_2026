@@ -16,7 +16,3 @@ geospatial data, statistical learning, and energy systems.
 4. Raster and vector analysis
 5. SQL basics and spacial databases 
 6. Identify interest areas in environmental data science
-
-### Experimental note
-
-Using this to understand git mistakes
