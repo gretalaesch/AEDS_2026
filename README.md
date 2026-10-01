@@ -20,4 +20,4 @@ geospatial data, statistical learning, and energy systems.
 
 ## Git Branch Practice
 
-This section was created on a feature branch.
+I am now creating a git conflict
