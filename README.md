@@ -18,6 +18,8 @@ geospatial data, statistical learning, and energy systems.
 6. Identify interest areas in environmental data science
 
 
-## Git Branch Practice
+## Merge Conflict Practice
 
-I am now creating a git conflict
+This section demonstrates how Git handles conflicting changes between branches.
+
+The original changes were made separately on the main and practice-conflict branches.
