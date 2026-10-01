@@ -18,6 +18,6 @@ geospatial data, statistical learning, and energy systems.
 6. Identify interest areas in environmental data science
 
 
-## Git Branch Practice
+## Merge Conflict Practice
 
-This section was created on a feature branch.
+This change was made on the practice-conflict branch.
