@@ -16,3 +16,8 @@ geospatial data, statistical learning, and energy systems.
 4. Raster and vector analysis
 5. SQL basics and spacial databases 
 6. Identify interest areas in environmental data science
+
+
+## Git Branch Practice
+
+This section was created on a feature branch.
